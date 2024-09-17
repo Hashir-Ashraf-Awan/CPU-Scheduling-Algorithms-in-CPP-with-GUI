@@ -1,0 +1,5 @@
+C:\Users\Hashir\source\repos\Project8\Project8\x64\Debug\Project8.vcxproj.AssemblyReference.cache
+C:\Users\Hashir\source\repos\Project8\Project8\x64\Debug\Project8.MyForm.resources
+C:\Users\Hashir\source\repos\Project8\Project8\x64\Debug\Project8.vcxproj.GenerateResource.cache
+C:\Users\Hashir\source\repos\Project8\Project8\x64\Debug\Project8.MyForm1.resources
+C:\Users\Hashir\source\repos\Project8\Project8\x64\Debug\Project8.MyForm2.resources
